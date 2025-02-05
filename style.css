@@ -68,6 +68,7 @@ button {
 .btn-submit {
     background: #4caf50;
     color: white;
+    margin-bottom: 14px;
 }
 
 .btn-submit:hover {
